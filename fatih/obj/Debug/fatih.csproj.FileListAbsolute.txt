@@ -1,0 +1,9 @@
+C:\Users\Samsung\source\repos\fatih\fatih\bin\Debug\fatih.exe.config
+C:\Users\Samsung\source\repos\fatih\fatih\bin\Debug\fatih.exe
+C:\Users\Samsung\source\repos\fatih\fatih\bin\Debug\fatih.pdb
+C:\Users\Samsung\source\repos\fatih\fatih\obj\Debug\fatih.Form1.resources
+C:\Users\Samsung\source\repos\fatih\fatih\obj\Debug\fatih.Properties.Resources.resources
+C:\Users\Samsung\source\repos\fatih\fatih\obj\Debug\fatih.csproj.GenerateResource.cache
+C:\Users\Samsung\source\repos\fatih\fatih\obj\Debug\fatih.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\fatih\fatih\obj\Debug\fatih.exe
+C:\Users\Samsung\source\repos\fatih\fatih\obj\Debug\fatih.pdb
