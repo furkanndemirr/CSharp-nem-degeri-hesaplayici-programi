@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fatih", "fatih\fatih.csproj", "{302A21F9-E03E-4F4F-A79E-561039092EC6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{6FA0952E-85EC-4D8F-8002-541C4EE35126}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{302A21F9-E03E-4F4F-A79E-561039092EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302A21F9-E03E-4F4F-A79E-561039092EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302A21F9-E03E-4F4F-A79E-561039092EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302A21F9-E03E-4F4F-A79E-561039092EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA0952E-85EC-4D8F-8002-541C4EE35126}.Debug|Any CPU.ActiveCfg = Debug
+		{6FA0952E-85EC-4D8F-8002-541C4EE35126}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0549BC7-9B7D-4012-B28E-86DB459BA09E}
+	EndGlobalSection
+EndGlobal
